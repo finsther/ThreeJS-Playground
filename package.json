@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "three": "^0.162.0",
+    "semistandard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "semistandard"
+  }
+}
